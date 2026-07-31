@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Adarsh
 
-<!--
-**Warcraft433/Warcraft433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Graduate
 
-Here are some ideas to get you started:
+💻 Java Backend Developer | Spring Boot Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Core Java
+- Advanced Java
+- Spring Boot
+- SQL
+
+🚀 Future Goals
+- Backend Developer
+- Embedded Software Engineer
+- Build Real-world Java Projects
