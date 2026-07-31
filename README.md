@@ -106,7 +106,6 @@ Java Backend Developer | Spring Boot Learner | ECE Graduate
 </p>
 
 ---
----
 
 ## 🐍 Contribution Snake
 
