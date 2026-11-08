@@ -77,7 +77,7 @@ I'm an early-career developer and 2026 B.Tech graduate in Electronics and Commun
 
 ### [PrintGuard AI ↗](https://github.com/Warcraft433/AI_3D_Printer)
 
-<p align="center"><a href="https://github.com/Warcraft433/AI_3D_Printer"><img src="assets/project-1.png" width="100%" alt="PrintGuard AI dashboard screenshot"></a></p>
+<p align="center"><a href="https://github.com/Warcraft433/AI_3D_Printer"><img src="assets/printguard-workflow.jpg" width="100%" alt="PrintGuard AI 3D printing workflow graphic"></a></p>
 
 AI-enhanced 3D printing project with a React interface, Spring Boot backend, and Python computer-vision service. Its README documents YOLOv8 defect detection, G-code slicing, and printer integrations.
 
@@ -99,7 +99,7 @@ Employment management system built with Java 21, Spring Boot 3, MySQL, and a van
 
 ### [JobFit Resume ↗](https://github.com/Warcraft433/JobFit-Resume)
 
-<p align="center"><a href="https://github.com/Warcraft433/JobFit-Resume"><img src="assets/project-2.png" width="100%" alt="JobFit Resume application screenshot"></a></p>
+<p align="center"><a href="https://github.com/Warcraft433/JobFit-Resume"><img src="assets/jobfit-dashboard.jpg" width="100%" alt="Resume platform dashboard screenshot"></a></p>
 
 Career platform for managing a career profile, comparing it with job descriptions, and generating tailored resume documents. The README describes a Spring Boot backend, React/TypeScript frontend, and PDF/DOCX export.
 
@@ -124,6 +124,7 @@ Menu-driven Core Java console application with number checks, sequences, factori
 
 <p align="center"><strong>LET'S CONNECT</strong>　·　<a href="https://github.com/Warcraft433">GitHub</a>　·　<a href="https://adarsh-dev-io.vercel.app/">Portfolio</a>　·　<a href="https://www.linkedin.com/in/adarsh-a-ab61b325a">LinkedIn</a>　·　<a href="mailto:adarsh.official2011@gmail.com">Email</a></p>
 <p align="center"><sub>Midnight black · Electric orange · Bengaluru, India</sub></p>
+
 
 
 
