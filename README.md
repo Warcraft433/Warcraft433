@@ -2,10 +2,8 @@
   <img src="assets/hero-banner.jpg" alt="Adarsh A — Java Full Stack Developer, B.Tech ECE Graduate '26" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Adarsh A 👋</h1>
-<p align="center"><strong>Java Full Stack Developer · B.Tech ECE Graduate, 2026</strong><br>
-Building practical applications with Java, Spring Boot, SQL, and modern web tools.</p>
-
+<h1 align="center">ADARSH A</h1>
+<p align="center"><strong>Java Full Stack Developer</strong><br>B.Tech ECE Graduate '26</p>
 <p align="center">
   <a href="https://github.com/Warcraft433">GitHub</a> ·
   <a href="https://adarsh-dev-io.vercel.app/">Portfolio</a> ·
@@ -13,74 +11,119 @@ Building practical applications with Java, Spring Boot, SQL, and modern web tool
   <a href="mailto:adarsh.official2011@gmail.com">Email</a>
 </p>
 
----
+<table>
+<tr>
+<td width="59%" valign="top">
 
-## About me
+## 🟠 About me
 
-I'm an early-career developer and 2026 B.Tech graduate in Electronics and Communication Engineering. I focus on Java backend and full-stack development, and enjoy turning practical ideas into working software through hands-on projects. I'm currently building my skills in Core Java, Spring Boot, REST APIs, databases, and frontend development, and I'm open to software development opportunities.
+I'm an early-career developer and 2026 B.Tech graduate in Electronics and Communication Engineering. I focus on Java backend and full-stack development, and enjoy turning practical ideas into working software through hands-on projects. I'm currently building with Core Java, Spring Boot, REST APIs, databases, and frontend tools, and I'm open to software development opportunities.
 
-📍 Bengaluru, India · 🎓 B.Tech ECE, 2026 · 💼 Open to opportunities
+📍 Bengaluru, India  ·  🎓 B.Tech ECE ('26)  ·  💼 Open to opportunities
 
-## Tech stack
+## 🟠 Tech stack & tools
 
 **Languages**  
-Java · Python · C · JavaScript · SQL
+![Java](https://img.shields.io/badge/Java-FF7900?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Backend**  
-Core Java · JDBC · Servlets · JSP · Spring Boot · REST APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF7900?style=flat-square) ![Java](https://img.shields.io/badge/Core_Java-FF7900?style=flat-square&logo=openjdk&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-555555?style=flat-square)
 
 **Frontend**  
-HTML5 · CSS3 · JavaScript · React
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Databases**  
-MySQL · PostgreSQL · H2
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![H2](https://img.shields.io/badge/H2-1D4ED8?style=flat-square)
 
-**Tools and platforms**  
-Git · GitHub · VS Code · IntelliJ IDEA · Eclipse · Postman · Arduino
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-111111?style=flat-square&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-## Featured projects
+</td>
+<td width="41%" valign="top">
 
-### [WorkSphere](https://github.com/Warcraft433/WorkSphere)
+## 🟠 GitHub statistics
+
+<p align="center">
+  <img src="https://img.shields.io/github/repos/Warcraft433?label=Repositories&style=for-the-badge&color=FF7900" alt="Live public repository count">
+  <img src="https://img.shields.io/github/followers/Warcraft433?label=Followers&style=for-the-badge&color=FF7900" alt="Live follower count">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Warcraft433&theme=github_dark" alt="Live GitHub statistics" width="100%">
+</p>
+
+## 🟠 Contribution activity
+
+<p align="center">
+  <a href="https://github.com/Warcraft433">
+    <img src="https://ghchart.rshah.org/FF7900/Warcraft433" alt="Live GitHub contribution activity" width="100%">
+  </a>
+</p>
+
+## 🟠 Top languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Warcraft433&theme=github_dark" alt="Languages from public repositories" width="100%">
+</p>
+
+<p align="center"><a href="https://github.com/Warcraft433">Recent activity ↗</a></p>
+
+</td>
+</tr>
+</table>
+
+## 🟠 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [PrintGuard AI ↗](https://github.com/Warcraft433/AI_3D_Printer)
+
+<p align="center"><a href="https://github.com/Warcraft433/AI_3D_Printer"><img src="assets/project-1.png" width="100%" alt="PrintGuard AI dashboard screenshot"></a></p>
+
+AI-enhanced 3D printing project with a React interface, Spring Boot backend, and Python computer-vision service. Its README documents YOLOv8 defect detection, G-code slicing, and printer integrations.
+
+`Java` `Spring Boot` `React` `Python` `YOLOv8`
+
+</td>
+<td width="50%" valign="top">
+
+### [WorkSphere ↗](https://github.com/Warcraft433/WorkSphere)
+
 Employment management system built with Java 21, Spring Boot 3, MySQL, and a vanilla HTML/CSS/JavaScript frontend. Its README describes employee, department, leave, payroll, and attendance modules, with JWT authentication and role-based access.
 
 `Java` `Spring Boot` `MySQL` `JavaScript`
 
-### [PrintGuard AI](https://github.com/Warcraft433/AI_3D_Printer)
-An AI-enhanced 3D printing platform combining a React interface, Spring Boot services, and a Python FastAPI computer-vision service. The project README documents YOLOv8 defect detection, G-code slicing, and printer integrations.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Java` `Spring Boot` `React` `Python` `YOLOv8` `3D printing`
+### [JobFit Resume ↗](https://github.com/Warcraft433/JobFit-Resume)
 
-### [JobFit Resume](https://github.com/Warcraft433/JobFit-Resume)
-A Java and React career platform for maintaining a career profile, matching it with job descriptions, and generating tailored resume documents. Its README describes a Spring Boot backend, React/TypeScript frontend, and PDF/DOCX export.
+<p align="center"><a href="https://github.com/Warcraft433/JobFit-Resume"><img src="assets/project-2.png" width="100%" alt="JobFit Resume application screenshot"></a></p>
 
-`Java` `Spring Boot` `React` `TypeScript` `PostgreSQL`
+Career platform for managing a career profile, comparing it with job descriptions, and generating tailored resume documents. The README describes a Spring Boot backend, React/TypeScript frontend, and PDF/DOCX export.
 
-### [Number Utility System](https://github.com/Warcraft433/NumberUtilitySystem)
-Menu-driven Core Java console app with number checks, sequences, factorial, reverse, and calculator operations.
+`Java` `Spring Boot` `React` `TypeScript`
 
-`Java` `Core Java` `Eclipse`
+</td>
+<td width="50%" valign="top">
 
-## GitHub activity
+### [Number Utility System ↗](https://github.com/Warcraft433/NumberUtilitySystem)
 
-<p align="center">
-  <a href="https://github.com/Warcraft433">
-    <img src="https://ghchart.rshah.org/FF7900/Warcraft433" alt="GitHub contribution activity for Warcraft433">
-  </a>
-</p>
+Menu-driven Core Java console application with number checks, sequences, factorial, reverse, and calculator operations.
 
-The contribution chart loads live public activity. For repository statistics and language breakdowns, visit the native [GitHub profile](https://github.com/Warcraft433), which remains available if the chart service is down.
+`Core Java` `Console app`
 
-## Connect
+</td>
+</tr>
+</table>
 
-📍 Bengaluru, India  ·  💼 Open to software development opportunities
-
-- **GitHub:** [github.com/Warcraft433](https://github.com/Warcraft433)
-- **Portfolio:** [adarsh-dev-io.vercel.app](https://adarsh-dev-io.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/adarsh-a-ab61b325a](https://www.linkedin.com/in/adarsh-a-ab61b325a)
-- **Email:** [adarsh.official2011@gmail.com](mailto:adarsh.official2011@gmail.com)
+<p align="right"><a href="https://github.com/Warcraft433?tab=repositories">View all repositories →</a></p>
 
 ---
-<p align="center"><sub>Designed with a midnight black and electric orange palette.</sub></p>
 
-
-
+<p align="center"><strong>LET'S CONNECT</strong>　·　<a href="https://github.com/Warcraft433">GitHub</a>　·　<a href="https://adarsh-dev-io.vercel.app/">Portfolio</a>　·　<a href="https://www.linkedin.com/in/adarsh-a-ab61b325a">LinkedIn</a>　·　<a href="mailto:adarsh.official2011@gmail.com">Email</a></p>
+<p align="center"><sub>Midnight black · Electric orange · Bengaluru, India</sub></p>
