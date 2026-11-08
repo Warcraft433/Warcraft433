@@ -44,7 +44,6 @@ I'm an early-career developer and 2026 B.Tech graduate in Electronics and Commun
 ## 🟠 GitHub statistics
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/Warcraft433?label=Repositories&style=for-the-badge&color=FF7900" alt="Live public repository count">
   <img src="https://img.shields.io/github/followers/Warcraft433?label=Followers&style=for-the-badge&color=FF7900" alt="Live follower count">
 </p>
 
@@ -127,3 +126,4 @@ Menu-driven Core Java console application with number checks, sequences, factori
 
 <p align="center"><strong>LET'S CONNECT</strong>　·　<a href="https://github.com/Warcraft433">GitHub</a>　·　<a href="https://adarsh-dev-io.vercel.app/">Portfolio</a>　·　<a href="https://www.linkedin.com/in/adarsh-a-ab61b325a">LinkedIn</a>　·　<a href="mailto:adarsh.official2011@gmail.com">Email</a></p>
 <p align="center"><sub>Midnight black · Electric orange · Bengaluru, India</sub></p>
+
