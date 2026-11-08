@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="assets/hero-banner.jpg" alt="Adarsh A — Java Full Stack Developer, B.Tech ECE Graduate '26" width="100%">
+  <img src="assets/hero-banner.jpg" alt="Adarsh A — Java Full Stack Developer, B.Tech ECE Graduate 2026" width="100%">
 </p>
 
-<h1 align="center">ADARSH A</h1>
-<p align="center"><strong>Java Full Stack Developer</strong><br>B.Tech ECE Graduate '26</p>
 <p align="center">
   <a href="https://github.com/Warcraft433">GitHub</a> ·
   <a href="https://adarsh-dev-io.vercel.app/">Portfolio</a> ·
@@ -126,4 +124,5 @@ Menu-driven Core Java console application with number checks, sequences, factori
 
 <p align="center"><strong>LET'S CONNECT</strong>　·　<a href="https://github.com/Warcraft433">GitHub</a>　·　<a href="https://adarsh-dev-io.vercel.app/">Portfolio</a>　·　<a href="https://www.linkedin.com/in/adarsh-a-ab61b325a">LinkedIn</a>　·　<a href="mailto:adarsh.official2011@gmail.com">Email</a></p>
 <p align="center"><sub>Midnight black · Electric orange · Bengaluru, India</sub></p>
+
 
